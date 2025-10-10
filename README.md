@@ -1,5 +1,14 @@
-## Olá, sou Mateus Fernandes 👋🏼
+# Mateus Fernandes | Desenvolvedor em Formação 👋🏼
 
-* 👨🏼‍🎓 Tenho 23 anos e moro em Itapira. 
-* 📚 Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC Itapira. Até o momento do curso, utilizamos o banco de dados relacional e PHP como linguagem de programação, além de aplicar a metodologia ágil Scrum para o desenvolvimento de projetos.
-* 👨🏼‍💻 Embora ainda não tenha experiência profissional, estou ansioso para aprender e contribuir em projetos de software. Estou em busca de oportunidades para iniciar minha carreira e crescer na área.
+📍 **Itapira, SP** | 23 anos
+
+Desenvolvedor Web em aprimoramento, com uma base sólida em **Análise e Desenvolvimento de Sistemas**.
+
+🚀 Minha jornada é focada em construir soluções **Full-Stack** utilizando **JavaScript**, aprimorando ativamente em **React** e **Node.js**.
+
+### 💻 Conhecimentos Técnicos:
+* **Back-End/BD:** **PHP**, **MySQL**, **MongoDB**, **Node.js**.
+* **Metodologias:** **Scrum** (com Trello), **Git Flow** (básico).
+* **Ferramentas:** Git, **GitHub**, Jest (básico), GitHub Actions (básico).
+
+Busco ativamente desafios para transformar ideias em código limpo e eficiente.
