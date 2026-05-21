@@ -11,14 +11,6 @@
 
 Desenvolvedor Web com experiência prática na criação, manutenção e otimização de ecossistemas digitais, incluindo **landing pages, e-commerces e aplicações escaláveis**.
 
-💡 Foco em:
-- Performance (Core Web Vitals)
-- SEO técnico
-- Integrações e automações
-- Experiência do usuário (UX/UI)
-
-🎯 Buscando transformar ideias em soluções digitais eficientes e escaláveis.
-
 ---
 
 ## 🧠 Tech Stack
