@@ -54,24 +54,6 @@ Desenvolvedor Web com experiência prática na criação, manutenção e otimiza
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=mateusfsan&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfsan&layout=compact&theme=tokyonight"
-  />
-</p>
-
----
-
 ## 📫 Contato
 
 <p>
