@@ -54,8 +54,17 @@ Desenvolvedor Web com experiência prática na criação, manutenção e otimiza
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusfsan&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfsan&layout=compact&theme=tokyonight"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=mateusfsan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"
+  />
+</p>
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfsan&layout=compact&theme=tokyonight&cache_seconds=86400"
+  />
 </p>
 
 ---
