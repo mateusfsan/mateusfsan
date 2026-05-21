@@ -30,6 +30,17 @@ Desenvolvedor Web com experiência prática na criação, manutenção e otimiza
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
+### 🧩 CMS & Plataformas
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>
+</p>
+
+### 🎨 Design & Prototipação
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
 ### ⚡ Ferramentas & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
@@ -48,14 +59,14 @@ Desenvolvedor Web com experiência prática na criação, manutenção e otimiza
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=mateusfsan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"
+    src="https://github-readme-streak-stats.herokuapp.com?user=mateusfsan&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfsan&layout=compact&theme=tokyonight&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfsan&layout=compact&theme=tokyonight"
   />
 </p>
 
